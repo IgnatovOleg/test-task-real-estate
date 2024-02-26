@@ -1,0 +1,43 @@
+.my-pop {
+    position: absolute;
+    z-index: 1000;
+    right: 0;
+    width: 200px;
+    min-height: max-content;
+    background-color: #1C3879;
+    border-radius: 20px;
+    padding: 20px;
+    color: #EAE3D2;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .my-pop img {
+    border-radius: 15px;
+  }
+  
+  .my-pop h3 {
+    margin-top: 10px;
+  }
+  
+  .my-pop p {
+    margin-top: 5px;
+  }
+  
+  .my-pop input {
+    margin-top: 2px;
+    padding: 3px;
+    border-radius: 15px;
+    background-color: transparent;
+    border: 2px solid #EAE3D2;
+    color: #EAE3D2;
+    font-size: 16px;
+    transition: all 500ms ease;
+  }
+  
+  .my-pop input:hover {
+    color: #1C3879;
+    background-color: #EAE3D2;
+  }

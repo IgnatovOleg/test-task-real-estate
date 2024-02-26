@@ -1,0 +1,21 @@
+
+a {
+    text-decoration: none;
+    color: #F9F5EB;
+    cursor: pointer;
+    transition: color 500ms ease;
+}
+a:hover {
+    color: #EAE3D2;
+  }
+
+li {
+    list-style-type: none;
+    padding-bottom: 7px;
+    transition: all 500ms ease;
+    margin: 0 25px;
+}
+
+li:hover {
+    transform: scale(1.05);
+}
