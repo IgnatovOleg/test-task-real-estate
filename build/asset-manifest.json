@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-task-real-estate/static/css/main.5b574cbf.css",
+    "main.js": "/test-task-real-estate/static/js/main.7f2f6eda.js",
+    "index.html": "/test-task-real-estate/index.html",
+    "main.5b574cbf.css.map": "/test-task-real-estate/static/css/main.5b574cbf.css.map",
+    "main.7f2f6eda.js.map": "/test-task-real-estate/static/js/main.7f2f6eda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b574cbf.css",
+    "static/js/main.7f2f6eda.js"
+  ]
+}
